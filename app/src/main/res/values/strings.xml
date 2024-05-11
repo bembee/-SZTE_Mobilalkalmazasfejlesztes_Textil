@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">TextilKincstár</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="search">Keresés</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="to_cart">Kosárba</string>
+    <string name="delete">Törlés</string>
+    <string name="cart">Kosár</string>
+    <string name="view">Nézet</string>
+    <string name="item_info">Termék leírás</string>
+    <string name="item_name">Megnevezés</string>
+    <string name="email">Email</string>
+    <string name="welcome">Üdvözöljük</string>
+    <string name="register">Regisztrálás</string>
+
+    <string-array name="shopping_item_names">
+        <item>Sinead ágytakaró zöld C04</item>
+        <item>Sinead ágytakaró kék C03</item>
+        <item>Olbia ágytakaró mályva C02</item>
+        <item>Fehér jacquard vitrázs függöny, levendula mintával - 90 cm magas</item>
+        <item>SOL, antracit, UV álló, impregnált kültéri vászon, napernyővászon</item>
+        <item>Empire Remi 1 soros antik arany 25 mm Fém rúdkarnis</item>
+        <item>Empire Oldalfali 1 soros antik arany 25 mm Fém rúdkarnis</item>
+        <item>4Home Matracvédő</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Sinead ágytakaró zöld C04 lábrészétől fel az ágytakaró majd teljes hosszában nagy leveles virágos minta fut az ágyterítő teljes szélességben. </item>
+        <item>Sinead ágytakaró kék C03 lábrészétől fel az ágytakaró majd teljes hosszában nagy leveles virágos minta fut az ágyterítő teljes szélességben. </item>
+        <item>Olbia ágytakaró mályva C02 olyan ágyterítő mely középen nagyméretű mályva és óezüst levél mintával díszített. .</item>
+        <item>90 cm *1m</item>
+        <item>1*1m</item>
+        <item>Az Ön által megadott méretre készül a Hellas karnis rúd. A végzáró ezen még túl fog nyúlni néhány centiméterrel.</item>
+        <item>A rúd mérete 240 cm. Oldalfali tartó esetén a rúd NEM toldható.</item>
+        <item>60 x 120 cm</item>
+    </string-array>
+
+
+    <array name="shopping_item_images">
+        <item>@drawable/sinead_agytakaro_03_kek</item>
+        <item>@drawable/sinead_agytakaro_04_zold</item>
+        <item>@drawable/olbia_c02_malyva</item>
+        <item>@drawable/levendula_mintas_vitrazs_90</item>
+        <item>@drawable/uv_allo_kulteri_vaszon_antracit</item>
+        <item>@drawable/remi_aa_25</item>
+        <item>@drawable/empire_oldalfali_aa_25</item>
+        <item>@drawable/matracvedo_harmony</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>52.600 Ft</item>
+        <item>52.600 Ft</item>
+        <item>62.800 Ft</item>
+        <item>1 579 Ft</item>
+        <item>4 290 Ft</item>
+        <item>17 830 Ft</item>
+        <item>12 870 Ft</item>
+        <item>3 395 Ft</item>
+    </array>
+
+</resources>
